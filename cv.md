@@ -65,4 +65,4 @@ button.addEventListener('click', playGame);
 * **FreeCodeCamp:** [Responsive Web Design](https://www.freecodecamp.org/certification/fcc8e58e9dd-edd4-4172-aa3e-9d986a35b0cd/responsive-web-design)
 
 ## English level: ##
-B1/B2 (I can read English quite well, but I have great difficulty communicating)
+* **B1/B2** (I can read English quite well, but I have great difficulty communicating)
