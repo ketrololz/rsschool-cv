@@ -57,6 +57,7 @@ button.addEventListener('click', playGame);
 ```
 
 ## Projects: ##
+* **[CV](https://ketrololz.github.io/rsschool-cv/cv)**
 
 ## Education: ##
 
